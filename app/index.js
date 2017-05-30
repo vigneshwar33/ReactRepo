@@ -11,7 +11,7 @@ class App extends React.Component{
     render(){
        return(
            <div>
-               Hello World React Js
+               Hello World React Js First Commit from Git Clone Successful.
            </div>
        )
     }
